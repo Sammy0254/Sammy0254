@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sammy0254
-- 👀 I’m interested in Cloud computing.
+- 👀 I’m interested in Cloud computing and Software Development.
 - 🌱 I’m currently learning Software development | Web development | Kubernetes | Dockerisation | DevOps $ DevSecOps
 - 💞️ I’m looking to collaborate on open-source projects related to web development, machine learning and AI
 - 📫 How to reach me mpuyuksamwel@gmail.com 
