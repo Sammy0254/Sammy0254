@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sammy0254
+- 👋 Hi, I’m Samwel Mpuyuk
 - 👀 I’m interested in Cloud computing and Software Development.
 - 🌱 I’m currently learning Software development | Web development | Kubernetes | Dockerisation | DevOps $ DevSecOps
 - 💞️ I’m looking to collaborate on open-source projects related to web development, machine learning and AI
