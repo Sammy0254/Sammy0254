@@ -1,4 +1,4 @@
-Hi, I’m Samwel Mpuyuk# — Full-Stack Engineer | DevOps Specialist | Cloud Architect
+Hi, I’m Samwel Mpuyuk — Full-Stack Engineer | DevOps Specialist | Cloud Architect
 
 Welcome to my GitHub profile! I specialize in building robust software systems, automating infrastructure, and delivering scalable cloud-native solutions.
 
