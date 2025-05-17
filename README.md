@@ -46,9 +46,9 @@ Welcome to my GitHub profile! I specialize in building robust software systems, 
 ---
 
 ## 📂 Featured Projects
-- 🧰 [DevOps Toolkit](https://github.com/yourusername/devops-toolkit): Production-ready CI/CD, monitoring, and IaC modules
-- 🌐 [Cloud Cost Monitor](https://github.com/yourusername/cloud-cost-monitor): AWS/GCP cost analysis tool
-- ⚡ [Micro SaaS API Starter](https://github.com/yourusername/micro-saas-api): Template for launching monetized APIs with Stripe integration
+- 🧰 [DevOps Toolkit](https://github.com/sammy0254/devops-toolkit): Production-ready CI/CD, monitoring, and IaC modules
+- 🌐 [Cloud Cost Monitor](https://github.com/sammy025/cloud-cost-monitor): AWS/GCP cost analysis tool
+- ⚡ [Micro SaaS API Starter](https://github.com/sammy025/micro-saas-api): Template for launching monetized APIs with Stripe integration
 
 ---
 
@@ -60,9 +60,8 @@ I'm open to:
 - Technical writing or code review gigs
 
 📫 **Contact Me**  
-- Email: [youremail@example.com]  
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- Twitter/X: [@yourhandle](https://x.com/yourhandle)
+- Email: mpuyuksamwel@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/samwel-mpuyuk-171821295/   
 
 🛒 Check out my tools on [Gumroad](https://yourgumroad.com)
 
