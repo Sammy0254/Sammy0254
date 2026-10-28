@@ -1,71 +1,23 @@
-Hi, I’m Samwel Mpuyuk — Full-Stack Engineer | DevOps Specialist | Cloud Architect
+# Samwel Mpuyuk
 
-Welcome to my GitHub profile! I specialize in building robust software systems, automating infrastructure, and delivering scalable cloud-native solutions.
+**DevOps Engineer | SRE | Python Automation | Cloud Infrastructure**
 
----
+I work on automation, infrastructure reliability, monitoring, and deployment engineering.
 
-## 💼 Services I Offer
+### Technical focus
+- **Languages:** Python, Bash, SQL
+- **Infrastructure:** Linux, Docker, Kubernetes, Terraform
+- **CI/CD:** GitHub Actions, Jenkins
+- **Observability:** Prometheus, Grafana, OpenTelemetry
+- **Cloud:** AWS
 
-🔧 **DevOps & Cloud Engineering**
-- CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins)
-- Infrastructure as Code (Terraform, Ansible, Pulumi)
-- Containerization & orchestration (Docker, Kubernetes)
-- Cloud Architecture (AWS, Azure, GCP)
+### Featured projects
+- **DevOps CI/CD Pipeline** — deployment automation, testing, and infrastructure workflows.
+- **Infrastructure Automation** — reproducible operational tasks, validation, and error handling.
+- **Reliability Engineering** — monitoring, alerting, and incident-response automation.
 
-💻 **Web & Backend Development**
-- Full-stack apps using React, Node.js, .NET, Django, Flask
-- RESTful & GraphQL APIs
-- Static and dynamic websites with modern UI/UX
+### Open-source contributions
+Contributions to upstream projects will be listed here with links to merged pull requests and substantive code reviews.
 
-📊 **Automation & Scripting**
-- Linux automation with Bash/Python/PowerShell
-- Task automation and cronjob systems
-- File processing, scraping, CLI tools
-
-🔐 **SysAdmin & Security**
-- Linux server setup & hardening
-- SSL setup, firewalls, fail2ban, backup systems
-
-📦 **Technical Products**
-- Ready-to-use scripts, CI templates, microservices
-- Custom code tools, bots, and digital utilities
-
----
-
-## 🧠 My Tech Toolbox
-
-**Languages**:  
-`C` | `C++` | `C#` | `Python` | `JavaScript` | `Java` | `Go` | `Rust` | `PHP` | `SQL` | `Perl` | `Ruby`  
-
-**Frameworks & Tools**:  
-`React` | `Vite` | `.NET` | `Node.js` | `Express` | `Flask` | `Django` | `MongoDB` | `MySQL` | `PostgreSQL`
-
-**DevOps & Cloud**:  
-`Docker` | `Kubernetes` | `Terraform` | `Prometheus` | `Grafana` | `GitHub Actions` | `AWS` | `Azure` | `GCP`
-
----
-
-## 📂 Featured Projects
-- 🧰 [DevOps Toolkit](https://github.com/sammy0254/devops-toolkit): Production-ready CI/CD, monitoring, and IaC modules
-- 🌐 [Cloud Cost Monitor](https://github.com/sammy025/cloud-cost-monitor): AWS/GCP cost analysis tool
-- ⚡ [Micro SaaS API Starter](https://github.com/sammy025/micro-saas-api): Template for launching monetized APIs with Stripe integration
-
----
-
-## 🤝 Let's Collaborate
-I'm open to:
-- Freelance DevOps & full-stack projects
-- API integrations, dashboard builds, cloud migrations
-- Long-term SaaS collaboration
-- Technical writing or code review gigs
-
-📫 **Contact Me**  
-- Email: mpuyuksamwel@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/samwel-mpuyuk-171821295/   
-
-🛒 Check out my tools on [Gumroad](https://yourgumroad.com)
-
----
-
-> ⚡ *“Code is art. Automate the boring, scale the meaningful.”*
-
+### Engineering principles
+Testable changes, reproducible environments, clear documentation, secure defaults, and maintainable automation.
